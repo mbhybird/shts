@@ -1,0 +1,19 @@
+platform :ios, ‘9.0’
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+target ‘SHTS’ do
+    pod 'Alamofire'
+    pod 'SnapKit'
+    pod 'SwiftyJSON'
+    pod 'swiftScan'
+    pod ‘Neon’
+    pod 'Chatto', '~> 3.1.0'
+    pod 'ChattoAdditions', '~> 3.1.0'
+    pod 'RxSwift',    '~> 3.0'
+    pod 'Eureka'
+    pod 'JSQMessagesViewController', :path => '../'
+    pod 'XLPagerTabStrip', '~> 7.0'
+    pod 'SQLite.swift', '~> 0.11.3'
+    pod 'M13Checkbox'
+end

@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Chatto (3.1.0)
+  - ChattoAdditions (3.1.0):
+    - Chatto
+  - Eureka (3.1.0)
+  - JSQMessagesViewController (7.3.4)
+  - M13Checkbox (3.1.3)
+  - Neon (0.4.0)
+  - RxSwift (3.6.1)
+  - SnapKit (3.2.0)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+  - swiftScan (1.1.1)
+  - SwiftyJSON (3.1.4)
+  - XLPagerTabStrip (7.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Chatto (~> 3.1.0)
+  - ChattoAdditions (~> 3.1.0)
+  - Eureka
+  - JSQMessagesViewController (from `../`)
+  - M13Checkbox
+  - Neon
+  - RxSwift (~> 3.0)
+  - SnapKit
+  - SQLite.swift (~> 0.11.3)
+  - swiftScan
+  - SwiftyJSON
+  - XLPagerTabStrip (~> 7.0)
+
+EXTERNAL SOURCES:
+  JSQMessagesViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Chatto: d959be2d284db62c713c68d7c39f2712ff902fa2
+  ChattoAdditions: 64cfe2d3414a65d2d6bc8a1c5704df491eec28b6
+  Eureka: d6725c38d0dcdceaa331d1468f75e76315715ae0
+  JSQMessagesViewController: c11b9e77372ab72c45c67311f6da7342e32df1e8
+  M13Checkbox: c132a7e0eb964731855eff67b883a0b21b7c0977
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+  swiftScan: f1f7f3eccb67ed1fb9777d084486d201dfca0306
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  XLPagerTabStrip: 9be80a66c6b7d60306b2c0a6004965016d68f813
+
+PODFILE CHECKSUM: 2924e5367242ca1d8e02422e5584d57b5ea4006d
+
+COCOAPODS: 1.3.1
